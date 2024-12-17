@@ -91,3 +91,19 @@ body {
   display: flex;
   justify-content: center;
 }
+
+.form {
+  margin: 0 0 1em 0;
+}
+
+#add-form {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.redirect {
+  display: flex;
+  justify-content: center;
+  margin-top: 1em;
+}

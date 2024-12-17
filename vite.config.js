@@ -7,5 +7,5 @@ export default defineConfig({
   base: 'https://DocokNet.github.io/rkpo_lab4', // Замените на имя вашего репозитория
   build: {
     outDir: 'build', // Папка, в которую будет собираться проект
-  }
+  },
 })
