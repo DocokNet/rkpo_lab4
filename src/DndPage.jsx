@@ -31,7 +31,7 @@ function DndPage() {
     const navigate = useNavigate();
 
     const handlerRedirectToDo = () => {
-      navigate('/'); 
+      navigate('/rkpo_lab4'); 
     };
 
     const onDragEnd = (result, columns, setColumns) => {
