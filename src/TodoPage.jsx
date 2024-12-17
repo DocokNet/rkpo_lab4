@@ -79,7 +79,9 @@ function TodoPage() {
       <div class="redirect">
         <button onClick={handlerRedirectDnD}>Перейти к странице с DragAndDrop</button>
       </div>
-      
+      <div className="redirect">
+        <button onClick={handlerRedirectDnD}>Перейти к странице с DragAndDrop</button>
+      </div>
     </div>
   );
 }
